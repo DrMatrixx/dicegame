@@ -35,3 +35,4 @@ else{
   document.querySelector("h1").innerHTML = "Oops! It's a draw!! 😕";
 
 }
+
